@@ -98,7 +98,9 @@ echo "3. Install Both"
 
 echo "4. Script Credits"
 
-echo "5. Exit"
+echo "5. Fix MySQL Offline"
+
+echo "6. Exit"
 
 
 
